@@ -24,7 +24,7 @@ public class SumOfPrimes {
 
         System.out.println();
 
-        count += array[1];     //сумируем число под порядковым номером 2
+        count += array[1];     //суммируем число под порядковым номером 2
         for(int i = 3; i <= n; i++) {
             isPrime = true;
             for(int j = 2; j <= i; j++) {
@@ -34,7 +34,7 @@ public class SumOfPrimes {
                 }
             }
 
-            if (isPrime == true) {   //сумируем все простые числа
+            if (isPrime == true) {   //суммируем все простые числа
                 count += array[i-1];
             }
         }
