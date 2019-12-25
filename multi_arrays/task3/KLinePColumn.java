@@ -1,4 +1,4 @@
-package multiArrays.task3;
+package multi_arrays.task3;
 
 /*
 Дана матрица. Вывести k-ю строку и p-й столбец матрицы.

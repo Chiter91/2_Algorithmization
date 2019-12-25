@@ -1,4 +1,4 @@
-package multiArrays.task2;
+package multi_arrays.task2;
 
 /*
 Дана квадратная матрица. Вывести на экран элементы, стоящие на диагонали.
